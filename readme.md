@@ -1,6 +1,6 @@
 ## Hello there, I am Utkarsh!
 
-### 💬 **Connect with me**: 
+## 💬 **Connect with me**: 
 
 <a target="_blank" href="mailto:utkarsh20143@iiitd.ac.in"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://github.com/utkar22"><img src="https://img.shields.io/badge/-GitHub-303030?style=for-the-badge&logo=github&logoColor=white"></img></a>
