@@ -1,7 +1,7 @@
 ## Hello there, I am Utkarsh!
-- I am currently a third year Computer Science undergrad @ IIIT Delhi
+- I am currently a final year Computer Science undergrad @ IIIT Delhi
 - I am well versed with Python, R, Java, C and SQL
-- My main interests include Data Science, Econometrics and Machine Learning
+- My main interests include Data Science, Econometrics, Machine Learning and Development
 
 ## 💬 **Connect with me**: 
 
